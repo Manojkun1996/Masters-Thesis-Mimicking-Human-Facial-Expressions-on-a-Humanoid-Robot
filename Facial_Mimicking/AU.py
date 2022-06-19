@@ -14,8 +14,6 @@ import _thread
 robot = Robot()
 robot.connect()
 
-
-
 '''
 k=10
 while True:
@@ -103,12 +101,8 @@ while True:
                         #motor(MotorId.eyelids,el, 0.0),
                         #motor(MotorId.lip_corners,lc, 0.0),
                         motor(MotorId.mouth,0,0),
-                        
-                        
-                            )
-                    
-                
-        
+                        )
+                   
             if first_idx == last_idx+1:
                 for f in os.listdir(path):
                     try:
@@ -119,7 +113,3 @@ while True:
             if len(txt_files)<1:
                 break
             first_idx = last_idx+1
-
-
-        
-    
