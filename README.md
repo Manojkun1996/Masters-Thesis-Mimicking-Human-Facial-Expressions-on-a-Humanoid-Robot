@@ -6,7 +6,7 @@ This Thesis work focuses on studying various models for facial expressions of E
 
 Keywords: Social Robots, Non-verbal Communication, Expressions,
 Emotions, Tabletop robot, Professor Einstein Robot
-**Please refer to the Short_Report.pdf for the detailed Explanations of the project.**
+**Please refer to the Short_Report.pdf and Manoj_Kunapalli.pdf for the detailed Explanations of the project.**
 
 https://user-images.githubusercontent.com/88244126/174495124-935cf9a2-d9b0-49f3-9c14-eb567ab8af43.mp4
 
