@@ -1,6 +1,6 @@
 # Masters-Thesis
 
-**Mimicking or Replicating the Human Facial Expressions on Prof. Einstein's Robot**
+**Models For Facial Expressions With Low-Cost Table-Top Robots**
 
 The main aim of this research is to build a software system which is capable of mimicking the facial expressions of a human on a Humanoid Robot (Prof.Einstein Robot)
 
