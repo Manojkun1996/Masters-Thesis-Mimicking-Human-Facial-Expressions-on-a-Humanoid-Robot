@@ -16,13 +16,3 @@ with sr.Microphone() as source:
         robot.say ("{}".format(text1))
     except:
         x = print("Sorry could not recognize what you said")
-
-        
-
-    
-   
-
-
-
-
-    
